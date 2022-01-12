@@ -1,1 +1,1 @@
-Supplementary information for "Mechanism of CO2 Capacity Reduction of Flexible Metal-Organic Framework Caused by Water Adsorption", S. Watanabe, S. Hiraide, H. Kunimitsu, A. Fujiwara, and M. T. Miyahara, Front. Mater. XX, XXXX (XXXX). DOI: XXXXX
+Supplementary information for "Mechanism of CO2 Capacity Reduction of Flexible Metal-Organic Framework Caused by Water Adsorption", S. Watanabe, S. Hiraide, H. Kunimitsu, A. Fujiwara, and M. T. Miyahara, Front. Mater. 9, 825592 (2022). DOI: 10.3389/fmats.2022.825592.
